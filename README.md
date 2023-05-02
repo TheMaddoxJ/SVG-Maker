@@ -49,7 +49,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 # Links(screen recording):<br>
 GitHub URL: https://github.com/TheMaddoxJ/SVG-Maker <br>
-Walkthrough Video URL: https://drive.google.com/file/d/1F5iETMExIEU8lR9sna3naChpmyykSEeI/view
+Walkthrough Video URL: https://drive.google.com/file/d/1F5iETMExIEU8lR9sna3naChpmyykSEeI/view <br>
 QR Code: ![qr-code](https://user-images.githubusercontent.com/123782105/235561024-763b468a-4ba3-4b52-8748-87d8d866c1f3.png)
 
 
